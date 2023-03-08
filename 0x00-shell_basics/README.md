@@ -12,3 +12,6 @@
 
 # File:4-listmorefiles -Contains a script that :
 # Display current directory contents, including hidden files.
+
+# File:5-listfilesdigitonly -Contains a script that :
+# Display current directory contents,long format , hidden ,userid and group ids numerically.
