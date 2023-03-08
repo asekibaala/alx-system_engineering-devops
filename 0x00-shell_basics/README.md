@@ -18,3 +18,6 @@
 
 # File:6-firstdirectory -Contains a script that :
 # Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+
+# File:7-movethatfile -Contains a script that :
+# Move the file betty from /tmp/ to /tmp/my_first_directory.
