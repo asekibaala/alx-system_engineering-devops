@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1ap | sed -e 's/^\.\{0,1\}\.\{0,1\}$/&\//' | LC_ALL=C sort -df | tr ','
+ls -1ap | sed -e 's/^\.\{0,1\}\.\{0,1\}$/&\//' | LC_ALL=C sort -df | tr '\n' ','
