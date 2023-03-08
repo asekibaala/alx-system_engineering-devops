@@ -39,4 +39,7 @@
 # File:12-file_type -Contains a script that :
 # script that prints the type of the file.
 
+# File:13-symbolic_link -Contains a script that :
+# Create a symbolic link.
+
 
