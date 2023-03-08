@@ -24,3 +24,7 @@
 
 # File:8-firstdelete -Contains a script that :
 # Delete the file betty.
+
+# File:9-firstdirdeletion -Contains a script that :
+# Delete the directory my_first_directory that is in the /tmp directory.
+
