@@ -52,3 +52,6 @@
 
 # File:101-clean_emacs -Contains a script that :
 # that deletes all files in the current working directory that end with the character ~.
+
+# File:102-tree -Contains a script that :
+# that creates the directories .
