@@ -47,4 +47,6 @@
 # but only copy files that did not exist in the parent of the working directory or were newer than the versions
 # in the parent of the working directory..
 
+# File:100-lets_move -Contains a script that :
+# that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
