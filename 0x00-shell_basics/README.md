@@ -15,3 +15,6 @@
 
 # File:5-listfilesdigitonly -Contains a script that :
 # Display current directory contents,long format , hidden ,userid and group ids numerically.
+
+# File:6-firstdirectory -Contains a script that :
+# Create a script that creates a directory named my_first_directory in the /tmp/ directory.
