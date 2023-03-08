@@ -21,3 +21,6 @@
 
 # File:7-movethatfile -Contains a script that :
 # Move the file betty from /tmp/ to /tmp/my_first_directory.
+
+# File:8-firstdelete -Contains a script that :
+# Delete the file betty.
