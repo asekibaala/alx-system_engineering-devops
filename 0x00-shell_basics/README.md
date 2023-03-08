@@ -9,3 +9,6 @@
 
 # File:3-listfiles -Contains a script that :
 # Display current directory contents in a long format.
+
+# File:4-listmorefiles -Contains a script that :
+# Display current directory contents, including hidden files.
