@@ -36,4 +36,7 @@
 # which are normally hidden) in the current directory and the parent of the working directory
 # and the /boot directory (in this order), in long format..
 
+# File:12-file_type -Contains a script that :
+# script that prints the type of the file.
+
 
