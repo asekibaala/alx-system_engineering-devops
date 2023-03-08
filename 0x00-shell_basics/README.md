@@ -6,3 +6,6 @@
 
 # File:2-bring_me_home -Contains a script that :
 # script that changes the working directory to the user’s home directory.
+
+# File:3-listfiles -Contains a script that :
+# Display current directory contents in a long format.
