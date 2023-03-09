@@ -31,3 +31,6 @@
 
 #File:10-mirror_permissions with a script that:
 #a script that mirrors permissions.
+
+#File:11-directories_permissions with a script that:
+#Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users..
