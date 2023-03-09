@@ -46,3 +46,6 @@
 
 #File:101-symbolic_link_permissions with a script that:
 #cript that changes the owner and the group owner of _hello to vincent and staff respectively.
+
+#File:102-if_only with a script that:
+#Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
