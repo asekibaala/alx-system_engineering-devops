@@ -9,3 +9,6 @@
 
 #File:2-groups with a script that:
 #that changes the owner of the file hello to the user betty.
+
+#File:4-empty with a script that:
+#that creates an empty file called hello.
