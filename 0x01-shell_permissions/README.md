@@ -36,4 +36,7 @@
 #Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users..
 
 #File:12-directory_permissions with a script that:
-#cript that creates a directory called my_dir with permissions 751 in the working directory. 
+#cript that creates a directory called my_dir with permissions 751 in the working directory.
+
+#File:13-change_group with a script that:
+#Write a script that changes the group owner to school for the file hello.
