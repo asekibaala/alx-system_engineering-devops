@@ -34,3 +34,6 @@
 
 #File:11-directories_permissions with a script that:
 #Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users..
+
+#File:12-directory_permissions with a script that:
+#cript that creates a directory called my_dir with permissions 751 in the working directory. 
