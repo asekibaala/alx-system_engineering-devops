@@ -28,3 +28,6 @@
 
 #File:9-John_Doe with a script that:
 #a script that sets the permission 753 the file hello.
+
+#File:10-mirror_permissions with a script that:
+#a script that mirrors permissions.
