@@ -25,3 +25,6 @@
 
 #File:8-James_Bond with a script that:
 #a script that sets the permission to the file hello.
+
+#File:9-John_Doe with a script that:
+#a script that sets the permission 753 the file hello.
