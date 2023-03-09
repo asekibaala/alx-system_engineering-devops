@@ -43,3 +43,6 @@
 
 #File:100-change_owner_and_group with a script that:
 #Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+#File:101-symbolic_link_permissions with a script that:
+#cript that changes the owner and the group owner of _hello to vincent and staff respectively.
