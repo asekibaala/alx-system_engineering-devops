@@ -3,3 +3,6 @@
 
 #File:1-who_am_i with a script that:
 #that prints the effective username of the current user.
+
+#File:2-groups with a script that:
+#that prints all the groups the current user is part of.
