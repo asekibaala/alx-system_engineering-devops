@@ -12,3 +12,7 @@
 
 #File:4-empty with a script that:
 #that creates an empty file called hello.
+
+
+#File:5-execute with a script that:
+#dds execute permission to the owner of the file hello.
