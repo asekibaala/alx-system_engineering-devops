@@ -16,3 +16,6 @@
 
 #File:5-execute with a script that:
 #dds execute permission to the owner of the file hello.
+
+#File:6-multiple_permissions with a script that:
+#adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
