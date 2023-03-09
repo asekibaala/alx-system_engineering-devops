@@ -6,3 +6,6 @@
 
 #File:2-groups with a script that:
 #that prints all the groups the current user is part of.
+
+#File:2-groups with a script that:
+#that changes the owner of the file hello to the user betty.
