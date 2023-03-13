@@ -21,3 +21,5 @@
 #10-no_more_js: delete JS Files
 
 #11-directories:Write a script that counts the number of directories and sub-directories in the current directory.
+
+#12-newest_files:Create a script that displays the 10 newest files in the current directory.
